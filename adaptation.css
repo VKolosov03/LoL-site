@@ -3,23 +3,23 @@
     top:  2075px;
 }
 .spin{
-    top:  725px;
+    top:  775px;
 }
 .news_us{
-    top: 1325px;
+    top: 1025px;
 }
 .guides{
     top: 2700px;
 }
-  
+  .central{
+   width: 1192px;
+  }
   .header {
      height: 83px;
      padding-top: 4px;
      padding-bottom: 5px;
  }
   .header_list{
-     margin-right: 110px;
-     margin-left: 110px;
      margin-top:  17px;
   }
     .header-pic{
@@ -45,12 +45,10 @@
      padding-bottom: 5px;
  }
   .footer_list{
-     margin-right: 110px; 
   }
     .footer-pic{
      width: 68px;
      height: 68px;
-     margin-left: 110px;
   }
   .footer_item{
      margin-right: 217px;
@@ -72,8 +70,6 @@
  }
    .main_list{
       margin-top:  340px;
-      margin-left: 102px;
-      margin-right: 102px;
   }
     .main_item{
      margin-bottom: 60px;
@@ -143,24 +139,16 @@
     left: 357px;
     top: 99px;
  }
- .left{
-    left: 110px;
- }
- .right{
-    right: 110px;
- }
  .headline{
     top: 280px;
-    left: 110px;
-    right: 110px;
+    left: 10px;
+    right: 10px;
  }
  .line{
     width: 1161px;
  }
  .news_list{
-      margin-top:  291px;
-      margin-left: 102px;
-      margin-right: 102px;
+      margin-top:  284px;
   }
  .news_link{
      height: 290px;
@@ -197,7 +185,7 @@
  .search_input{
     width: 825px;
     height: 80px;
-    left: 235px;
+    left: 135px;
     top: 142px;
  }
  input[type="text"]{
@@ -208,7 +196,7 @@
  .search_button{
     width: 175px;
     height: 80px;
-    left: 965px;
+    left: 865px;
     top: 142px;
     font-size: 32px;
     line-height: 40px;
@@ -228,19 +216,16 @@
  .guide-pic1{
     width: 490px;
     height: 490px;
-    left: 110px;
     top: 285px;
  }
  .guide-pic2{
     width: 490px;
     height: 490px;
-    right: 110px;
     top: 2055px;
  }
  .guide_text1{
     width: 607px;
     height: 405px;
-    right: 110px;
     top: 285px;
     font-size: 36px;
     line-height: 45px;
@@ -248,8 +233,6 @@
  .guide_text2{
     width: 1150px;
     height: 1030px;
-    left: 110px;
-    right: 110px;
     top: 810px;
     font-size: 36px;
     line-height: 45px;
@@ -257,7 +240,6 @@
  .guide_text3{
     width: 607px;
     height: 364px;
-    left: 110px;
     top: 2065px;
     font-size: 36px;
     line-height: 45px;
@@ -269,7 +251,7 @@
     top:  1875px;
 }
 .spin{
-    top:  650px;
+    top:  700px;
 }
 .news_us{
     top: 1175px;
@@ -277,15 +259,15 @@
 .guides{
     top: 2425px;
 }
-  
+  .central{
+   width: 1035px;
+  }
   .header {
      height: 74px;
      padding-top: 3px;
      padding-bottom: 4px;
  }
   .header_list{
-     margin-right: 105px;
-     margin-left: 105px;
      margin-top:  15px;
   }
     .header-pic{
@@ -310,13 +292,9 @@
      padding-top: 6px;
      padding-bottom: 5px;
  }
-  .footer_list{
-     margin-right: 105px; 
-  }
     .footer-pic{
      width: 62px;
      height: 62px;
-     margin-left: 105px;
   }
   .footer_item{
      margin-right: 172px;
@@ -338,8 +316,6 @@
  }
    .main_list{
       margin-top:  290px;
-      margin-left: 97px;
-      margin-right: 97px;
   }
     .main_item{
      margin-bottom: 55px;
@@ -421,24 +397,14 @@
     left: 307px;
     top: 88.5px;
  }
- .left{
-    left: 105px;
- }
- .right{
-    right: 105px;
- }
  .headline{
     top: 230px;
-    left: 105px;
-    right: 105px;
  }
  .line{
     width: 1005px;
  }
  .news_list{
-      margin-top:  241px;
-      margin-left: 97px;
-      margin-right: 97px;
+      margin-top:  234px;
   }
  .news_link{
      height: 260px;
@@ -475,7 +441,7 @@
  .search_input{
     width: 740px;
     height: 70px;
-    left: 205px;
+    left: 115px;
     top: 127px;
  }
  input[type="text"]{
@@ -486,7 +452,7 @@
  .search_button{
     width: 150px;
     height: 70px;
-    left: 855px;
+    left: 765px;
     top: 127px;
     font-size: 28px;
     line-height: 35px;
@@ -506,19 +472,16 @@
  .guide-pic1{
     width: 450px;
     height: 450px;
-    left: 105px;
     top: 240px;
  }
  .guide-pic2{
     width: 450px;
     height: 450px;
-    right: 105px;
     top: 1795px;
  }
  .guide_text1{
     width: 530px;
     height: 460px;
-    right: 105px;
     top: 250px;
     font-size: 32px;
     line-height: 40px;
@@ -526,8 +489,6 @@
  .guide_text2{
     width: 1050px;
     height: 1030px;
-    left: 105px;
-    right: 105px;
     top: 710px;
     font-size: 32px;
     line-height: 40px;
@@ -535,7 +496,6 @@
  .guide_text3{
     width: 539px;
     height: 320px;
-    left: 105px;
     top: 1805px;
     font-size: 32px;
     line-height: 40px;
@@ -547,7 +507,7 @@
     top:  1665px;
 }
 .spin{
-    top:  530px;
+    top:  625px;
 }
 .news_us{
     top: 1075px;
@@ -555,15 +515,15 @@
 .guides{
     top: 2025px;
 }
-  
+  .central{
+   width: 862px;
+  }
   .header {
      height: 64px;
      padding-top: 2.5px;
      padding-bottom: 3.5px;
  }
   .header_list{
-     margin-right: 90px;
-     margin-left: 90px;
      margin-top:  13px;
   }
     .header-pic{
@@ -588,13 +548,9 @@
      padding-top: 6px;
      padding-bottom: 5px;
  }
-  .footer_list{
-     margin-right: 90px; 
-  }
     .footer-pic{
      width: 57px;
      height: 57px;
-     margin-left: 90px;
   }
   .footer_item{
      margin-right: 147px;
@@ -616,8 +572,6 @@
  }
    .main_list{
       margin-top:  265px;
-      margin-left: 83px;
-      margin-right: 83px;
   }
     .main_item{
      margin-bottom: 50px;
@@ -700,24 +654,14 @@
     left: 263px;
     top: 77.5px;
  }
- .left{
-    left: 90px;
- }
- .right{
-    right: 90px;
- }
  .headline{
     top: 220px;
-    left: 90px;
-    right: 90px;
  }
  .line{
     width: 827px;
  }
  .news_list{
-      margin-top:  231px;
-      margin-left: 83px;
-      margin-right: 83px;
+      margin-top:  224px;
   }
  .news_link{
      height: 240px;
@@ -754,7 +698,7 @@
  .search_input{
     width: 640px;
     height: 60px;
-    left: 170px;
+    left: 95px;
     top: 117px;
  }
  input[type="text"]{
@@ -765,7 +709,7 @@
  .search_button{
     width: 125px;
     height: 60px;
-    left: 710px;
+    left: 635px;
     top: 117px;
     font-size: 24px;
     line-height: 30px;
@@ -785,19 +729,16 @@
  .guide-pic1{
     width: 375px;
     height: 375px;
-    left: 90px;
     top: 225px;
  }
  .guide-pic2{
     width: 375px;
     height: 375px;
-    right: 90px;
     top: 1505px;
  }
  .guide_text1{
    width: 421px;
     height: 248px;
-    right: 90px;
     top: 245px;
      font-size: 25px;
     line-height: 32px;
@@ -805,8 +746,6 @@
  .guide_text2{
     width: 833px;
     height: 800px;
-    left: 90px;
-    right: 90px;
     top: 620px;
      font-size: 26px;
     line-height: 33px;
@@ -814,7 +753,6 @@
  .guide_text3{
     width: 421px;
     height: 248px;
-    left: 90px;
     top: 1530px;
      font-size: 25px;
     line-height: 32px;
@@ -826,7 +764,7 @@
     top:  1405px;
 }
 .spin{
-    top:  460px;
+    top:  525px;
 }
 .news_us{
     top: 925px;
@@ -834,15 +772,15 @@
 .guides{
     top: 1715px;
 }
-  
+  .central{
+   width: 738px;
+  }
   .header {
      height: 55px;
      padding-top: 2.5px;
      padding-bottom: 3.5px;
  }
   .header_list{
-     margin-right: 80px;
-     margin-left: 80px;
      margin-top:  10px;
   }
     .header-pic{
@@ -867,13 +805,9 @@
      padding-top: 7px;
      padding-bottom: 5px;
  }
-  .footer_list{
-     margin-right: 80px; 
-  }
     .footer-pic{
      width: 52px;
      height: 52px;
-     margin-left: 80px;
   }
   .footer_item{
      margin-right: 134px;
@@ -895,8 +829,6 @@
  }
    .main_list{
       margin-top:  240px;
-      margin-left: 73px;
-      margin-right: 73px;
   }
     .main_item{
      margin-bottom: 45px;
@@ -979,24 +911,14 @@
     left: 225px;
     top: 63px;
  }
- .left{
-    left: 80px;
- }
- .right{
-    right: 80px;
- }
  .headline{
     top: 200px;
-    left: 80px;
-    right: 80px;
  }
  .line{
     width: 705px;
  }
  .news_list{
-      margin-top:  211px;
-      margin-left: 73px;
-      margin-right: 73px;
+      margin-top:  204px;
   }
  .news_link{
      height: 200px;
@@ -1033,7 +955,7 @@
  .search_input{
     width: 530px;
     height: 52px;
-    left: 152px;
+    left: 87px;
     top: 100px;
  }
  input[type="text"]{
@@ -1044,7 +966,7 @@
  .search_button{
     width: 110px;
     height: 52px;
-    left: 600px;
+    left: 535px;
     top: 100px;
     font-size: 21px;
     line-height: 26px;
@@ -1064,19 +986,16 @@
  .guide-pic1{
     width: 320px;
     height: 320px;
-    left: 80px;
     top: 200px;
  }
  .guide-pic2{
     width: 320px;
     height: 320px;
-    right: 80px;
     top: 1265px;
  }
  .guide_text1{
    width: 354px;
     height: 208px;
-    right: 80px;
     top: 220px;
      font-size: 21px;
     line-height: 27px;
@@ -1084,8 +1003,6 @@
  .guide_text2{
     width: 708px;
     height: 710px;
-    left: 80px;
-    right: 80px;
     top: 540px;
      font-size: 21px;
     line-height: 27px;
@@ -1093,7 +1010,6 @@
  .guide_text3{
     width: 354px;
     height: 208px;
-    left: 80px;
     top: 1280px;
      font-size: 21px;
     line-height: 27px;
@@ -1104,7 +1020,7 @@
     top:  1270px;
 }
 .spin{
-    top:  402px;
+    top:  450px;
 }
 .news_us{
     top: 835px;
@@ -1112,15 +1028,15 @@
 .guides{
     top: 1545px;
 }
-  
+  .central{
+   width: 650px;
+  }
   .header {
      height: 48px;
      padding-top: 2.5px;
      padding-bottom: 3.5px;
  }
   .header_list{
-     margin-right: 70px;
-     margin-left: 70px;
      margin-top:  9px;
   }
     .header-pic{
@@ -1145,13 +1061,9 @@
      padding-top: 8px;
      padding-bottom: 5px;
  }
-  .footer_list{
-     margin-right: 70px; 
-  }
     .footer-pic{
      width: 46px;
      height: 46px;
-     margin-left: 70px;
   }
   .footer_item{
      margin-right: 106px;
@@ -1173,8 +1085,6 @@
  }
    .main_list{
       margin-top:  210px;
-      margin-left: 62.5px;
-      margin-right: 62.5px;
   }
     .main_item{
      margin-bottom: 40px;
@@ -1257,24 +1167,14 @@
     left: 200px;
     top: 56px;
  }
- .left{
-    left: 70px;
- }
- .right{
-    right: 70px;
- }
  .headline{
     top: 180px;
-    left: 70px;
-    right: 70px;
  }
  .line{
     width: 619.5px;
  }
  .news_list{
-      margin-top:  191px;
-      margin-left: 62.5px;
-      margin-right: 62.5px;
+      margin-top:  184px;
   }
  .news_link{
      height: 180px;
@@ -1311,7 +1211,7 @@
  .search_input{
     width: 470px;
     height: 45px;
-    left: 132px;
+    left: 77px;
     top: 85px;
  }
  input[type="text"]{
@@ -1322,7 +1222,7 @@
  .search_button{
     width: 95px;
     height: 45px;
-    left: 528px;
+    left: 473px;
     top: 85px;
     font-size: 18px;
     line-height: 23px;
@@ -1342,19 +1242,16 @@
  .guide-pic1{
     width: 290px;
     height: 290px;
-    left: 70px;
     top: 180px;
  }
  .guide-pic2{
     width: 290px;
     height: 290px;
-    right: 70px;
     top: 1130px;
  }
  .guide_text1{
    width: 320px;
     height: 192px;
-    right: 70px;
     top: 200px;
      font-size: 19px;
     line-height: 24px;
@@ -1362,8 +1259,6 @@
  .guide_text2{
     width: 599.5px;
     height: 624px;
-    left: 70px;
-    right: 70px;
     top: 485px;
      font-size: 19px;
     line-height: 24px;
@@ -1371,7 +1266,6 @@
  .guide_text3{
      width: 320px;
     height: 192px;
-    left: 70px;
     top: 1127px;
      font-size: 19px;
     line-height: 24px;
@@ -1386,7 +1280,7 @@
     top:  1050px;
 }
 .spin{
-    top:  325px;
+    top:  400px;
 }
 .news_us{
     top: 735px;
@@ -1394,15 +1288,15 @@
 .guides{
     top: 1260px;
 }
-  
+  .central{
+   width: 528px;
+  }
   .header {
      height: 39px;
      padding-top: 2px;
      padding-bottom: 3.5px;
  }
   .header_list{
-     margin-right: 55px;
-     margin-left: 55px;
      margin-top:  8px;
   }
     .header-pic{
@@ -1429,13 +1323,9 @@
      height: 89px;
      padding-top: 8px;
  }
-  .footer_list{
-     margin-right: 55px; 
-  }
     .footer-pic{
      width: 40px;
      height: 40px;
-     margin-left: 55px;
   }
   .footer_item{
      margin-right: 71px;
@@ -1457,8 +1347,6 @@
  }
    .main_list{
       margin-top:  180px;
-      margin-left: 47px;
-      margin-right: 47px;
   }
     .main_item{
      margin-bottom: 35px;
@@ -1542,24 +1430,14 @@
     left: 162px;
     top: 47px;
  }
- .left{
-    left: 55px;
- }
- .right{
-    right: 55px;
- }
  .headline{
     top: 145px;
-    left: 55px;
-    right: 55px;
  }
  .line{
     width: 497.5px;
  }
  .news_list{
-      margin-top:  156px;
-      margin-left: 47px;
-      margin-right: 47px;
+      margin-top:  149px;
   }
  .news_link{
      height: 160px;
@@ -1596,7 +1474,7 @@
  .search_input{
     width: 360px;
     height: 37px;
-    left: 102px;
+    left: 62px;
     top: 70px;
  }
  input[type="text"]{
@@ -1607,7 +1485,7 @@
  .search_button{
     width: 75px;
     height: 37px;
-    left: 422px;
+    left: 382px;
     top: 70px;
     font-size: 15px;
     line-height: 19px;
@@ -1627,19 +1505,16 @@
  .guide-pic1{
     width: 240px;
     height: 240px;
-    left: 55px;
     top: 155px;
  }
  .guide-pic2{
     width: 240px;
     height: 240px;
-    right: 55px;
     top: 915px;
  }
  .guide_text1{
    width: 253px;
     height: 152px;
-    right: 55px;
     top: 172px;
      font-size: 15px;
     line-height: 19px;
@@ -1647,8 +1522,6 @@
  .guide_text2{
     width: 497px;
     height: 494px;
-    left: 55px;
-    right: 55px;
     top: 410px;
      font-size: 15px;
     line-height: 19px;
@@ -1656,7 +1529,6 @@
  .guide_text3{
      width: 253px;
     height: 152px;
-    left: 55px;
     top: 930px;
      font-size: 15px;
     line-height: 19px;
@@ -1668,7 +1540,7 @@
     top:  900px;
 }
 .spin{
-    top:  650px;
+    top:  480px;
 }
 .news_us{
     top: 900px;
@@ -1676,15 +1548,15 @@
 .guides{
     top: 1460px;
 }
-  
+ .central{
+   width: 447px;
+ } 
   .header {
      height: 39px;
      padding-top: 2px;
      padding-bottom: 3.5px;
  }
   .header_list{
-     margin-right: 45px;
-     margin-left: 45px;
      margin-top:  8px;
   }
     .header-pic{
@@ -1711,13 +1583,9 @@
      height: 73px;
      padding-top: 8px;
  }
-  .footer_list{
-     margin-right: 45px; 
-  }
     .footer-pic{
      width: 35px;
      height: 35px;
-     margin-left: 45px;
   }
   .footer_item{
      margin-right: 57px;
@@ -1739,8 +1607,6 @@
  }
    .main_list{
       margin-top:  180px;
-      margin-left: 39px;
-      margin-right: 39px;
   }
     .main_item{
      margin-bottom: 30px;
@@ -1781,12 +1647,12 @@
  .circle{
     width: 185px;
     height: 185px;
-    top: 308px;
+    top: 168px;
  }
  .caption{
     width: 185px;
     height: 45px;
-    top: 518px;
+    top: 378px;
  }
  .caption_text{
     width: 176px;
@@ -1796,7 +1662,7 @@
     bottom: 7px;
  }
  .arrow{
-    top: 350px;
+    top: 220px;
     height: 103px;
  }
  .med_circle{
@@ -1817,23 +1683,19 @@
     top: 46px;
  }
  .left{
-    left: 32px;
+    left: 2px;
  }
  .right{
-    right: 32px;
+    right: 2px;
  }
  .headline{
     top: 160px;
-    left: 45px;
-    right: 45px;
  }
  .line{
     width: 413px;
  }
  .news_list{
-      margin-top:  171px;
-      margin-left: 39px;
-      margin-right: 39px;
+      margin-top:  164px;
   }
  .news_link{
      height: 125px;
@@ -1865,7 +1727,7 @@
  .search_input{
     width: 350px;
     height: 47px;
-    left: 72px;
+    left: 42px;
     top: 70px;
  }
  input[type="text"]{
@@ -1876,7 +1738,7 @@
  .search_button{
     width: 90px;
     height: 47px;
-    left: 332px;
+    left: 302px;
     top: 70px;
     font-size: 18px;
     line-height: 21px;
@@ -1896,22 +1758,16 @@
  .guide-pic1{
     width: 416px;
     height: 195px;
-    left: 45px;
-    right: 45px;
     top: 255px;
  }
  .guide-pic2{
     width: 416px;
     height: 195px;
-    left: 45px;
-    right: 45px;
     top: 1050px;
  }
  .guide_text1{
    width: 416px;
     height: 152px;
-    left: 45px;
-    right: 45px;
     top: 132px;
      font-size: 15px;
     line-height: 19px;
@@ -1919,8 +1775,6 @@
  .guide_text2{
     width: 416px;
     height: 494px;
-    left: 45px;
-    right: 45px;
     top: 448px;
      font-size: 15px;
     line-height: 19px;
@@ -1928,8 +1782,6 @@
  .guide_text3{
      width: 416px;
     height: 152px;
-    left: 45px;
-    right: 45px;
     top: 1245px;
      font-size: 15px;
     line-height: 19px;
@@ -1938,7 +1790,7 @@
 
 @media only screen and (max-width: 522.99px) {
    .spin{
-    top:  650px;
+    top:  450px;
 }
 .search{
     top: 190px;
@@ -1946,15 +1798,15 @@
 .guides{
     top: 1340px;
 }
-  
+  .central{
+   width: 349px;
+  }
   .header {
      height: 35px;
      padding-top: 1.5px;
      padding-bottom: 3.5px;
  }
   .header_list{
-     margin-right: 30px;
-     margin-left: 30px;
      margin-top:  7px;
   }
     .header-pic{
@@ -1981,13 +1833,9 @@
      height: 73px;
      padding-top: 8px;
  }
-  .footer_list{
-     margin-right: 30px; 
-  }
     .footer-pic{
      width: 31px;
      height: 31px;
-     margin-left: 30px;
   }
   .footer_item{
      margin-right: 33px;
@@ -2009,8 +1857,6 @@
  }
    .main_list{
       margin-top:  180px;
-      margin-left: 23.5px;
-      margin-right: 23.5px;
   }
     .main_item{
      margin-bottom: 35px;
@@ -2045,12 +1891,12 @@
  .circle{
     width: 185px;
     height: 185px;
-    top: 308px;
+    top: 158px;
  }
  .caption{
     width: 185px;
     height: 45px;
-    top: 518px;
+    top: 368px;
  }
  .caption_text{
     width: 176px;
@@ -2060,7 +1906,7 @@
     bottom: 7px;
  }
  .arrow{
-    top: 350px;
+    top: 200px;
     height: 103px;
  }
  .triangle{
@@ -2078,23 +1924,19 @@
     top: 46px;
  }
  .left{
-    left: 16px;
+    left: 1px;
  }
  .right{
-    right: 16px;
+    right: 1px;
  }
  .headline{
     top: 150px;
-    left: 29px;
-    right: 29px;
  }
  .line{
     width: 317px;
  }
  .news_list{
-      margin-top:  161px;
-      margin-left: 23.5px;
-      margin-right: 23.5px;
+      margin-top:  154px;
   }
  .news_link{
      height: 120px;
@@ -2123,7 +1965,7 @@
  .search_input{
     width: 250px;
     height: 40px;
-    left: 52px;
+    left: 37px;
     top: 70px;
  }
  input[type="text"]{
@@ -2134,7 +1976,7 @@
  .search_button{
     width: 80px;
     height: 40px;
-    left: 246px;
+    left: 231px;
     top: 70px;
     font-size: 16px;
     line-height: 19px;
@@ -2153,22 +1995,16 @@
  .guide-pic1{
     width: 319px;
     height: 155px;
-    left: 29px;
-    right: 29px;
     top: 255px;
  }
  .guide-pic2{
     width: 319px;
     height: 155px;
-    left: 29px;
-    right: 29px;
     top: 1010px;
  }
  .guide_text1{
    width: 319px;
     height: auto;
-    left: 29px;
-    right: 29px;
     top: 132px;
      font-size: 13px;
     line-height: 16.5px;
@@ -2176,8 +2012,6 @@
  .guide_text2{
     width: 319px;
     height: auto;
-    left: 29px;
-    right: 29px;
     top: 418px;
      font-size: 13px;
     line-height: 16.5px;
@@ -2185,8 +2019,6 @@
  .guide_text3{
     width: 319px;
     height: auto;
-    left: 29px;
-    right: 29px;
     top: 1175px;
      font-size: 13px;
     line-height: 16.5px;
@@ -2198,7 +2030,7 @@
     top:  800px;
 }
 .spin{
-    top:  550px;
+    top:  420px;
 }
 .news_us{
     top: 800px;
@@ -2209,15 +2041,15 @@
 .guides{
     top: 1130px;
 }
-  
+  .central{
+   width: 304px;
+  }
   .header {
      height: 31px;
      padding-top: 1.5px;
      padding-bottom: 3.5px;
  }
   .header_list{
-     margin-right: 15px;
-     margin-left: 15px;
      margin-top:  7px;
   }
     .header-pic{
@@ -2244,13 +2076,9 @@
      height: 65px;
      padding-top: 8px;
  }
-  .footer_list{
-     margin-right: 15px; 
-  }
     .footer-pic{
      width: 27px;
      height: 27px;
-     margin-left: 15px;
   }
   .footer_item{
      margin-right: 20px;
@@ -2272,8 +2100,6 @@
  }
    .main_list{
       margin-top:  160px;
-      margin-left: 8.5px;
-      margin-right: 8.5px;
   }
     .main_item{
      margin-bottom: 40px;
@@ -2308,12 +2134,12 @@
  .circle{
     width: 165px;
     height: 165px;
-    top: 280px;
+    top: 160px;
  }
  .caption{
     width: 165px;
     height: 42px;
-    top: 458px;
+    top: 338px;
  }
  .caption_text{
     width: 176px;
@@ -2323,7 +2149,7 @@
     bottom: 6px;
  }
  .arrow{
-    top: 320px;
+    top: 200px;
     height: 103px;
  }
  .triangle{
@@ -2348,16 +2174,12 @@
  }
  .headline{
     top: 145px;
-    left: 5px;
-    right: 7px;
  }
  .line{
     width: 269px;
  }
  .news_list{
-      margin-top:  156px;
-      margin-left: 10px;
-      margin-right: 10px;
+      margin-top:  149px;
   }
  .news_link{
      height: 110px;
@@ -2384,7 +2206,7 @@
  .search_input{
     width: 200px;
     height: 35px;
-    left: 42px;
+    left: 40px;
     top: 60px;
  }
  input[type="text"]{
@@ -2395,7 +2217,7 @@
  .search_button{
     width: 70px;
     height: 35px;
-    left: 195px;
+    left: 193px;
     top: 60px;
     font-size: 14px;
     line-height: 17px;
@@ -2414,22 +2236,16 @@
  .guide-pic1{
     width: 272.5px;
     height: 135px;
-    left: 15px;
-    right: 15px;
     top: 225px;
  }
  .guide-pic2{
     width: 272.5px;
     height: 135px;
-    left: 15px;
-    right: 15px;
     top: 847px;
  }
  .guide_text1{
    width: 272.5px;
     height: auto;
-    left: 15px;
-    right: 15px;
     top: 122px;
      font-size: 11px;
     line-height: 14px;
@@ -2437,8 +2253,6 @@
  .guide_text2{
     width: 272.5px;
     height: auto;
-    left: 15px;
-    right: 15px;
     top: 360px;
      font-size: 11px;
     line-height: 14px;
@@ -2446,8 +2260,6 @@
  .guide_text3{
     width: 272.5px;
     height: auto;
-    left: 15px;
-    right: 15px;
     top: 985px;
      font-size: 11px;
     line-height: 14px;
@@ -2459,9 +2271,39 @@
     bottom: 0;
    }
 }
-@media only screen and (min-height: 800px){
+@media only screen and (min-height: 800px) and (max-width: 1500px){
    .spin{
     top:  auto;
     bottom: 0;
    }
+}
+@media only screen and (min-height: 700px) and (max-width: 623.99px){
+   .spin{
+    top:  auto;
+    bottom: 0;
+   }
+   .circle{
+    top: 308px;
+ }
+ .caption{
+    top: 518px;
+ }
+ .arrow{
+    top: 350px;
+ }
+}
+@media only screen and (min-height: 700px) and (max-width: 386.99px){
+   .spin{
+    top:  auto;
+    bottom: 0;
+   }
+   .circle{
+    top: 280px;
+ }
+ .caption{
+    top: 458px;
+ }
+ .arrow{
+    top: 320px;
+ }
 }
